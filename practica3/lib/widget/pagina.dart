@@ -3,8 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:practica3/widget/centro.dart';
 import 'package:practica3/widget/derecho.dart';
 import 'package:practica3/widget/izquierdo.dart';
-
-
 class Pagina extends StatefulWidget{
   const Pagina({super.key});
   @override
